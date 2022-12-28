@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jurek</h1>
 <h3 align="center">A passionate software developer from Poland</h3>
 
-- 🌱 I’m currently learning **Python, SQL, Machine learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/JerzyBatygolski/Portfolio_Jerzy_Batygolski](https://github.com/JerzyBatygolski/Portfolio_Jerzy_Batygolski)
 
 - 💬 Ask me about **C/C++, Mathematics, Physics**
+
+- 🌱 I’m currently learning **Python, SQL, Machine learning**
 
 - 📫 How to reach me **jerzybatygolski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jerzybatygolski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerzybatygolski" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
