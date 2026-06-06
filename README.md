@@ -5,8 +5,8 @@
 
 - 💬 Ask me about: **C#, SQL, C, Physics, Mathematics**
 
-- 🌱 I’m currently mastering: **Machine Learning, Deep Neural Networks, Python**
+- 🌱 I’m currently mastering: **Machine Learning, Deep Neural Networks, Large Language Models, Python**
 
 - 📫 How to reach me: **jerzybatygolski@gmail.com**
 
-- 🛠️ I worked with: **Git, Docker, Google Maps API, Moodle, Databricks, AWS, GCP**
+- 🛠️ I worked with: **Git, Docker, GCP, Google Maps API, Moodle, Databricks, AWS**
